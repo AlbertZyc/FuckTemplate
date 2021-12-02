@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.albertzyc.fucktemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.albertzyc.fucktemplate.MyBundle
 
 class MyApplicationService {
 
